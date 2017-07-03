@@ -1,0 +1,645 @@
+LOCATION,Country,TRANSACT,Transaction,SECTOR,Sector,MEASURE,Measure,TIME,Year,Unit Code,Unit,PowerCode Code,PowerCode,Reference Period Code,Reference Period,Value,Flag Codes,Flags
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,36707.9,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,38900.6,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,42700.4,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,45348,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,46780.6,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,51526.2,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,54016.8,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,56342.5,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,57813.2,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,62745.3,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,66647.2,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,72450.8,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,78225,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,77565.2,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,70624.1,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,73265.7,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,77357.3,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,76654.2,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,76044.1,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,77761.3,NA,NA
+AUT,Austria,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,79403.4,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,46209.8,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,46450.9,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,48646,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,51087.7,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,52060,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,56738.4,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,56521.3,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,59789.8,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,63360.3,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,71971.6,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,76988.5,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,81178.1,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,87360.2,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,86113.7,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,82739.5,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,92978.2,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,96501.9,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,94855,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,95250.4,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,99802,NA,NA
+BEL,Belgium,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,105622.1,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,DKK,Danish Krone,6,Millions,NA,NA,221794,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,DKK,Danish Krone,6,Millions,NA,NA,230512,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,DKK,Danish Krone,6,Millions,NA,NA,248594,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,DKK,Danish Krone,6,Millions,NA,NA,240783,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,DKK,Danish Krone,6,Millions,NA,NA,265913,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,DKK,Danish Krone,6,Millions,NA,NA,315642,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,DKK,Danish Krone,6,Millions,NA,NA,307111,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,DKK,Danish Krone,6,Millions,NA,NA,310919,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,DKK,Danish Krone,6,Millions,NA,NA,315943,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,DKK,Danish Krone,6,Millions,NA,NA,342357,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,DKK,Danish Krone,6,Millions,NA,NA,362435,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,DKK,Danish Krone,6,Millions,NA,NA,393160,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,DKK,Danish Krone,6,Millions,NA,NA,383139,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,DKK,Danish Krone,6,Millions,NA,NA,401807,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,DKK,Danish Krone,6,Millions,NA,NA,351166,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,DKK,Danish Krone,6,Millions,NA,NA,411522,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,DKK,Danish Krone,6,Millions,NA,NA,420958,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,DKK,Danish Krone,6,Millions,NA,NA,443672,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,DKK,Danish Krone,6,Millions,NA,NA,450069,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,DKK,Danish Krone,6,Millions,NA,NA,460176,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,DKK,Danish Krone,6,Millions,NA,NA,481539,NA,NA
+DNK,Denmark,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2016,2016,DKK,Danish Krone,6,Millions,NA,NA,454779,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,25481,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,25703,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,28761,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,32712,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,34077,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,37719,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,41015,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,40909,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,40727,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,43576,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,43924,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,46171,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,52704,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,52673,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,41746,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,44797,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,45715,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,43233,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,43476,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,45033,NA,NA
+FIN,Finland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,47113,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1950,1950,EUR,Euro,6,Millions,NA,NA,2191,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1951,1951,EUR,Euro,6,Millions,NA,NA,2826,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1952,1952,EUR,Euro,6,Millions,NA,NA,2992,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1953,1953,EUR,Euro,6,Millions,NA,NA,3207,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1954,1954,EUR,Euro,6,Millions,NA,NA,3314,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1955,1955,EUR,Euro,6,Millions,NA,NA,3696,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1956,1956,EUR,Euro,6,Millions,NA,NA,4083,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1957,1957,EUR,Euro,6,Millions,NA,NA,4717,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1958,1958,EUR,Euro,6,Millions,NA,NA,5547,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1959,1959,EUR,Euro,6,Millions,NA,NA,6174,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1960,1960,EUR,Euro,6,Millions,NA,NA,7140,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1961,1961,EUR,Euro,6,Millions,NA,NA,7647,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1962,1962,EUR,Euro,6,Millions,NA,NA,7922,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1963,1963,EUR,Euro,6,Millions,NA,NA,8714,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1964,1964,EUR,Euro,6,Millions,NA,NA,9913,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1965,1965,EUR,Euro,6,Millions,NA,NA,10945,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1966,1966,EUR,Euro,6,Millions,NA,NA,11892,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1967,1967,EUR,Euro,6,Millions,NA,NA,12934,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1968,1968,EUR,Euro,6,Millions,NA,NA,13889,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1969,1969,EUR,Euro,6,Millions,NA,NA,17347,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1970,1970,EUR,Euro,6,Millions,NA,NA,19853,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1971,1971,EUR,Euro,6,Millions,NA,NA,22929,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1972,1972,EUR,Euro,6,Millions,NA,NA,24994,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1973,1973,EUR,Euro,6,Millions,NA,NA,30003,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1974,1974,EUR,Euro,6,Millions,NA,NA,35339,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1975,1975,EUR,Euro,6,Millions,NA,NA,35144,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1976,1976,EUR,Euro,6,Millions,NA,NA,39942,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1977,1977,EUR,Euro,6,Millions,NA,NA,45639,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1978,1978,EUR,Euro,6,Millions,NA,NA,48392,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1979,1979,EUR,Euro,6,Millions,NA,NA,54829,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1980,1980,EUR,Euro,6,Millions,NA,NA,61728,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1981,1981,EUR,Euro,6,Millions,NA,NA,69798,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1982,1982,EUR,Euro,6,Millions,NA,NA,79213,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1983,1983,EUR,Euro,6,Millions,NA,NA,92179,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1984,1984,EUR,Euro,6,Millions,NA,NA,106892,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1985,1985,EUR,Euro,6,Millions,NA,NA,119649,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1986,1986,EUR,Euro,6,Millions,NA,NA,145464,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1987,1987,EUR,Euro,6,Millions,NA,NA,153860,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1988,1988,EUR,Euro,6,Millions,NA,NA,177364,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1989,1989,EUR,Euro,6,Millions,NA,NA,196684,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1990,1990,EUR,Euro,6,Millions,NA,NA,202883,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1991,1991,EUR,Euro,6,Millions,NA,NA,207404,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1992,1992,EUR,Euro,6,Millions,NA,NA,212941,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1993,1993,EUR,Euro,6,Millions,NA,NA,209940,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1994,1994,EUR,Euro,6,Millions,NA,NA,213101,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,216871,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,213993,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,225403,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,244616,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,249537,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,270928,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,280109,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,284541,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,291181,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,306899,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,314951,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,331845,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,359333,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,363601,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,329770,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,355424,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,359418,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,351085,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,356008,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,366677,NA,NA
+FRA,France,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,386712,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,407187,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,418978,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,446421,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,474097,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,479789,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,478136,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,519456,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,536464,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,542218,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,584472,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,606438,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,657546,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,705866,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,685266,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,620134,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,677725,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,701433,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,686652,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,699330,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,729716,NA,NA
+DEU,Germany,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,758791,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,18318.963,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,20415.0918,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,22449.0199,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,24952.8214,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,25861.7516,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,27956.2598,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,29536.8273,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,29534.7145,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,32634.0726,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,37633.1918,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,37878.4136,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,40263.2184,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,44628.4055,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,47262.4389,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,44059.1834,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,39444.4503,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,37013.7459,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,36759.8015,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,36736.836,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,34340.1999,NA,NA
+GRC,Greece,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,33975.762,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,HUF,Forint,6,Millions,NA,NA,854905,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,HUF,Forint,6,Millions,NA,NA,1115083,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,HUF,Forint,6,Millions,NA,NA,1691493,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,HUF,Forint,6,Millions,NA,NA,2182636,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,HUF,Forint,6,Millions,NA,NA,2413621,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,HUF,Forint,6,Millions,NA,NA,2619787,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,HUF,Forint,6,Millions,NA,NA,3186729,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,HUF,Forint,6,Millions,NA,NA,4055427,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,HUF,Forint,6,Millions,NA,NA,4186611,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,HUF,Forint,6,Millions,NA,NA,4857603,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,HUF,Forint,6,Millions,NA,NA,5198706,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,HUF,Forint,6,Millions,NA,NA,6076874,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,HUF,Forint,6,Millions,NA,NA,6194147,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,HUF,Forint,6,Millions,NA,NA,6560175,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,HUF,Forint,6,Millions,NA,NA,6322059,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,HUF,Forint,6,Millions,NA,NA,6682983,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,HUF,Forint,6,Millions,NA,NA,7142103,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,HUF,Forint,6,Millions,NA,NA,7008149,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,HUF,Forint,6,Millions,NA,NA,7748600,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,HUF,Forint,6,Millions,NA,NA,8543263,NA,NA
+HUN,Hungary,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,HUF,Forint,6,Millions,NA,NA,9048736,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,31753.8535,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,37754.4053,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,42920.3228,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,50658.9923,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,52941.9678,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,55189.8924,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,59220.013,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,63527.1597,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,65854.5857,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,55749.0914,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,54258.2249,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,59088.7946,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,65152.4234,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,67206.0999,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,69915.3452,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,75835.5259,NA,NA
+IRL,Ireland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,128778.9723,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,245581.1,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,260168,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,262568.8,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,267340.2,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,274370.6,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,299513,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,319870,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,322681.8,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,327733.8,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,339128.1,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,342421.7,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,347722.8,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,365096.2,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,364969,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,328270.9,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,337150.8,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,344898,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,323522.7,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,324767.1,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,334843.5,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,340182.2,NA,NA
+ITA,Italy,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2016,2016,EUR,Euro,6,Millions,NA,NA,353679.9,NA,NA
+LUX,Luxembourg,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,11468.4,NA,NA
+LUX,Luxembourg,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,12649.6,NA,NA
+LUX,Luxembourg,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,12281.69,NA,NA
+LUX,Luxembourg,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,13480.1,NA,NA
+LUX,Luxembourg,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,14598.4,NA,NA
+LUX,Luxembourg,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,15849.28,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,79910,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,84886,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,92549,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,98782,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,102548,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,110430,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,123116,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,126882,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,128272,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,137940,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,150317,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,163184,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,171441,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,177327,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,169979,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,183619,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,184410,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,186037,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,185319,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,186511,NA,NA
+NLD,Netherlands,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,192112,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1978,1978,NOK,Norwegian Krone,6,Millions,NA,NA,47778,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1979,1979,NOK,Norwegian Krone,6,Millions,NA,NA,63107,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1980,1980,NOK,Norwegian Krone,6,Millions,NA,NA,85585,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1981,1981,NOK,Norwegian Krone,6,Millions,NA,NA,98269,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1982,1982,NOK,Norwegian Krone,6,Millions,NA,NA,109843,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1983,1983,NOK,Norwegian Krone,6,Millions,NA,NA,126646,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1984,1984,NOK,Norwegian Krone,6,Millions,NA,NA,149658,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1985,1985,NOK,Norwegian Krone,6,Millions,NA,NA,162094,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1986,1986,NOK,Norwegian Krone,6,Millions,NA,NA,134530,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1987,1987,NOK,Norwegian Krone,6,Millions,NA,NA,141567,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1988,1988,NOK,Norwegian Krone,6,Millions,NA,NA,146644,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1989,1989,NOK,Norwegian Krone,6,Millions,NA,NA,177781,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1990,1990,NOK,Norwegian Krone,6,Millions,NA,NA,196898,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1991,1991,NOK,Norwegian Krone,6,Millions,NA,NA,209349,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1992,1992,NOK,Norwegian Krone,6,Millions,NA,NA,208944,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1993,1993,NOK,Norwegian Krone,6,Millions,NA,NA,227355,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1994,1994,NOK,Norwegian Krone,6,Millions,NA,NA,237571,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,NOK,Norwegian Krone,6,Millions,NA,NA,257472,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,NOK,Norwegian Krone,6,Millions,NA,NA,302499,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,NOK,Norwegian Krone,6,Millions,NA,NA,331382,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,NOK,Norwegian Krone,6,Millions,NA,NA,291403,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,NOK,Norwegian Krone,6,Millions,NA,NA,340755,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,NOK,Norwegian Krone,6,Millions,NA,NA,527686,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,NOK,Norwegian Krone,6,Millions,NA,NA,537594,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,NOK,Norwegian Krone,6,Millions,NA,NA,494782,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,NOK,Norwegian Krone,6,Millions,NA,NA,529322,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,NOK,Norwegian Krone,6,Millions,NA,NA,640088,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,NOK,Norwegian Krone,6,Millions,NA,NA,773715,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,NOK,Norwegian Krone,6,Millions,NA,NA,885221,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,NOK,Norwegian Krone,6,Millions,NA,NA,883737,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,NOK,Norwegian Krone,6,Millions,NA,NA,1033987,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,NOK,Norwegian Krone,6,Millions,NA,NA,844506,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,NOK,Norwegian Krone,6,Millions,NA,NA,933881,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,NOK,Norwegian Krone,6,Millions,NA,NA,1035462,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,NOK,Norwegian Krone,6,Millions,NA,NA,1105832,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,NOK,Norwegian Krone,6,Millions,NA,NA,1113728,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,NOK,Norwegian Krone,6,Millions,NA,NA,1093386,NA,NA
+NOR,Norway,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,NOK,Norwegian Krone,6,Millions,NA,NA,997099,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,PLN,Zloty,6,Millions,NA,NA,55358.95,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,PLN,Zloty,6,Millions,NA,NA,64645,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,PLN,Zloty,6,Millions,NA,NA,83063,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,PLN,Zloty,6,Millions,NA,NA,93306.86,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,PLN,Zloty,6,Millions,NA,NA,108538,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,PLN,Zloty,6,Millions,NA,NA,130117,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,PLN,Zloty,6,Millions,NA,NA,119201,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,PLN,Zloty,6,Millions,NA,NA,136277,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,PLN,Zloty,6,Millions,NA,NA,159160,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,PLN,Zloty,6,Millions,NA,NA,204062,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,PLN,Zloty,6,Millions,NA,NA,221043,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,PLN,Zloty,6,Millions,NA,NA,243905,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,PLN,Zloty,6,Millions,NA,NA,269754,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,PLN,Zloty,6,Millions,NA,NA,282003,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,PLN,Zloty,6,Millions,NA,NA,332304,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,PLN,Zloty,6,Millions,NA,NA,344259.682,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,PLN,Zloty,6,Millions,NA,NA,382667.165,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,PLN,Zloty,6,Millions,NA,NA,398304.758,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,PLN,Zloty,6,Millions,NA,NA,412758.715,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,PLN,Zloty,6,Millions,NA,NA,434905.442,NA,NA
+POL,Poland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,PLN,Zloty,6,Millions,NA,NA,467663,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,17739.888,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,18106.608,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,20341.885,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,21829.313,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,23816.411,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,25360.692,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,26833.289,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,27786.85,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,27962.766,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,30026.41,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,30011.845,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,32556.798,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,36815.71,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,36577.647,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,36499.667,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,37413.322,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,36978.149,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,35738.984,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,36342.284,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,37401.605,NA,NA
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,39120.915,E,Estimated value
+PRT,Portugal,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2016,2016,EUR,Euro,6,Millions,NA,NA,39809.985,E,Estimated value
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,5818.67,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,5807.39,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,6343.77,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,6601.06,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,7266.74,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,7737.14,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,8646.06,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,9033.13,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,10151.91,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,12535.68,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,13041.21,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,15571.04,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,17564.04,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,19089.12,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,15693.03,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,17957.71,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,18665.57,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,19463.34,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,19695.06,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,19438.9,NA,NA
+SVK,Slovak Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,19830.61,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,120577,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,131744,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,142560,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,152508,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,160725,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,172440,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,186364,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,204169,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,236236,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,265621,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,268601,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,254901,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,249304,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,248950,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,245156,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,250367,NA,NA
+ESP,Spain,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,258892,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,SEK,Swedish Krona,6,Millions,NA,NA,507200,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,SEK,Swedish Krona,6,Millions,NA,NA,472411,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,SEK,Swedish Krona,6,Millions,NA,NA,502322,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,SEK,Swedish Krona,6,Millions,NA,NA,517181,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,SEK,Swedish Krona,6,Millions,NA,NA,546723,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,SEK,Swedish Krona,6,Millions,NA,NA,572924,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,SEK,Swedish Krona,6,Millions,NA,NA,559412,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,SEK,Swedish Krona,6,Millions,NA,NA,576065,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,SEK,Swedish Krona,6,Millions,NA,NA,617629,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,SEK,Swedish Krona,6,Millions,NA,NA,683054,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,SEK,Swedish Krona,6,Millions,NA,NA,708667,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,SEK,Swedish Krona,6,Millions,NA,NA,795233,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,SEK,Swedish Krona,6,Millions,NA,NA,822386,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,SEK,Swedish Krona,6,Millions,NA,NA,820254,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,SEK,Swedish Krona,6,Millions,NA,NA,737970,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,SEK,Swedish Krona,6,Millions,NA,NA,873175,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,SEK,Swedish Krona,6,Millions,NA,NA,892412,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,SEK,Swedish Krona,6,Millions,NA,NA,847169,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,SEK,Swedish Krona,6,Millions,NA,NA,859550,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,SEK,Swedish Krona,6,Millions,NA,NA,924993,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,SEK,Swedish Krona,6,Millions,NA,NA,1004183,NA,NA
+SWE,Sweden,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2016,2016,SEK,Swedish Krona,6,Millions,NA,NA,1012737,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,CHF,Swiss Franc,6,Millions,NA,NA,98843.0696,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,CHF,Swiss Franc,6,Millions,NA,NA,99860.8386,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,CHF,Swiss Franc,6,Millions,NA,NA,105343.9972,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,CHF,Swiss Franc,6,Millions,NA,NA,110549.4654,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,CHF,Swiss Franc,6,Millions,NA,NA,107727.1604,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,CHF,Swiss Franc,6,Millions,NA,NA,113816.6175,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,CHF,Swiss Franc,6,Millions,NA,NA,110096.1067,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,CHF,Swiss Franc,6,Millions,NA,NA,102838.2691,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,CHF,Swiss Franc,6,Millions,NA,NA,106837.7846,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,CHF,Swiss Franc,6,Millions,NA,NA,117382.007,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,CHF,Swiss Franc,6,Millions,NA,NA,125328.2176,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,CHF,Swiss Franc,6,Millions,NA,NA,140848.2003,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,CHF,Swiss Franc,6,Millions,NA,NA,156111.1518,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,CHF,Swiss Franc,6,Millions,NA,NA,157404.5797,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,CHF,Swiss Franc,6,Millions,NA,NA,140936.5564,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,CHF,Swiss Franc,6,Millions,NA,NA,155904.5701,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,CHF,Swiss Franc,6,Millions,NA,NA,154007.4922,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,CHF,Swiss Franc,6,Millions,NA,NA,151394.7031,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,CHF,Swiss Franc,6,Millions,NA,NA,151160.3543,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,CHF,Swiss Franc,6,Millions,NA,NA,152089.1313,NA,NA
+CHE,Switzerland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,CHF,Swiss Franc,6,Millions,NA,NA,148845.7031,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,GBP,Pound Sterling,6,Millions,NA,NA,199682,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,GBP,Pound Sterling,6,Millions,NA,NA,223261,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,GBP,Pound Sterling,6,Millions,NA,NA,229911,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,GBP,Pound Sterling,6,Millions,NA,NA,225585,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,GBP,Pound Sterling,6,Millions,NA,NA,218280,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,GBP,Pound Sterling,6,Millions,NA,NA,223474,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,GBP,Pound Sterling,6,Millions,NA,NA,217451,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,GBP,Pound Sterling,6,Millions,NA,NA,237417,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,GBP,Pound Sterling,6,Millions,NA,NA,259184,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,GBP,Pound Sterling,6,Millions,NA,NA,273668,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,GBP,Pound Sterling,6,Millions,NA,NA,303156,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,GBP,Pound Sterling,6,Millions,NA,NA,313864,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,GBP,Pound Sterling,6,Millions,NA,NA,330126,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,GBP,Pound Sterling,6,Millions,NA,NA,336167,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,GBP,Pound Sterling,6,Millions,NA,NA,322171,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,GBP,Pound Sterling,6,Millions,NA,NA,323879,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,GBP,Pound Sterling,6,Millions,NA,NA,341559,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,GBP,Pound Sterling,6,Millions,NA,NA,345502,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,GBP,Pound Sterling,6,Millions,NA,NA,364980,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,GBP,Pound Sterling,6,Millions,NA,NA,394289,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,GBP,Pound Sterling,6,Millions,NA,NA,397291,NA,NA
+GBR,United Kingdom,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2016,2016,GBP,Pound Sterling,6,Millions,NA,NA,404751,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1970,1970,USD,US Dollar,6,Millions,NA,NA,157379.63,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1971,1971,USD,US Dollar,6,Millions,NA,NA,176542.14,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1972,1972,USD,US Dollar,6,Millions,NA,NA,198230.3,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1973,1973,USD,US Dollar,6,Millions,NA,NA,220157.69,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1974,1974,USD,US Dollar,6,Millions,NA,NA,234214.19,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1975,1975,USD,US Dollar,6,Millions,NA,NA,273056.2,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1976,1976,USD,US Dollar,6,Millions,NA,NA,314806.79,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1977,1977,USD,US Dollar,6,Millions,NA,NA,362267.92,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1978,1978,USD,US Dollar,6,Millions,NA,NA,416186.35,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1979,1979,USD,US Dollar,6,Millions,NA,NA,448295.66,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1980,1980,USD,US Dollar,6,Millions,NA,NA,474260.52,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1981,1981,USD,US Dollar,6,Millions,NA,NA,564077.11,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1982,1982,USD,US Dollar,6,Millions,NA,NA,587470.83,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1983,1983,USD,US Dollar,6,Millions,NA,NA,648917.54,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1984,1984,USD,US Dollar,6,Millions,NA,NA,745889.6,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1985,1985,USD,US Dollar,6,Millions,NA,NA,790245.15,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1986,1986,USD,US Dollar,6,Millions,NA,NA,780712.96,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1987,1987,USD,US Dollar,6,Millions,NA,NA,834431.8,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1988,1988,USD,US Dollar,6,Millions,NA,NA,912165.67,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1989,1989,USD,US Dollar,6,Millions,NA,NA,958548.81,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1990,1990,USD,US Dollar,6,Millions,NA,NA,971296.03,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1991,1991,USD,US Dollar,6,Millions,NA,NA,996920.14,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1992,1992,USD,US Dollar,6,Millions,NA,NA,1025495.85,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1993,1993,USD,US Dollar,6,Millions,NA,NA,1089239.19,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1994,1994,USD,US Dollar,6,Millions,NA,NA,1217537.49,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,USD,US Dollar,6,Millions,NA,NA,1336764.87,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,USD,US Dollar,6,Millions,NA,NA,1454117.17,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,USD,US Dollar,6,Millions,NA,NA,1588714.2,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,USD,US Dollar,6,Millions,NA,NA,1638470.62,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,USD,US Dollar,6,Millions,NA,NA,1709626.08,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,USD,US Dollar,6,Millions,NA,NA,1769867.06,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,USD,US Dollar,6,Millions,NA,NA,1763120.53,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,USD,US Dollar,6,Millions,NA,NA,1870985.54,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,USD,US Dollar,6,Millions,NA,NA,2000260.38,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,USD,US Dollar,6,Millions,NA,NA,2183430.5,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,USD,US Dollar,6,Millions,NA,NA,2449594.31,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,USD,US Dollar,6,Millions,NA,NA,2715106.97,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,USD,US Dollar,6,Millions,NA,NA,2643472.1,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,USD,US Dollar,6,Millions,NA,NA,2497202.03,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,USD,US Dollar,6,Millions,NA,NA,2585985.29,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,USD,US Dollar,6,Millions,NA,NA,2872648.27,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,USD,US Dollar,6,Millions,NA,NA,2980221.76,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,USD,US Dollar,6,Millions,NA,NA,3245074.42,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,USD,US Dollar,6,Millions,NA,NA,3338315.941,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,USD,US Dollar,6,Millions,NA,NA,3564796.017,NA,NA
+USA,United States,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,USD,US Dollar,6,Millions,NA,NA,3583720.371,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,551.3,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,770.3,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,1046.5,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,1322.4,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,1524.1,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,1777,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,2128.1,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,2424.2,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,2810.6,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,3153.9,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,3751.5,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,4496.8,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,5134.1,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,4740.5,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,3551.3,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,4376.1,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,5486.9,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,5843.6,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,6148.3,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,6232.6,NA,NA
+EST,Estonia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,5718.4,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,1365.6056,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,1681.2842,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,2155.3909,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,2469.6308,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,2967.8236,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,3135.1303,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,3572.499,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,4064.6056,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,4758.005,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,5098.8023,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,5302.0076,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,6134.4784,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,7248.6604,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,7768.5253,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,6733.0023,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,6616.8738,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,6857.9273,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,6551.3979,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,6743.8916,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,7339.9589,NA,NA
+SVN,Slovenia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,7693.7062,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,CZK,Czech Koruna,6,Millions,NA,NA,420063,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,CZK,Czech Koruna,6,Millions,NA,NA,480565,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,CZK,Czech Koruna,6,Millions,NA,NA,514773,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,CZK,Czech Koruna,6,Millions,NA,NA,611970,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,CZK,Czech Koruna,6,Millions,NA,NA,623016,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,CZK,Czech Koruna,6,Millions,NA,NA,671073,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,CZK,Czech Koruna,6,Millions,NA,NA,750524,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,CZK,Czech Koruna,6,Millions,NA,NA,747540,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,CZK,Czech Koruna,6,Millions,NA,NA,780819,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,CZK,Czech Koruna,6,Millions,NA,NA,859217,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,CZK,Czech Koruna,6,Millions,NA,NA,939454,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,CZK,Czech Koruna,6,Millions,NA,NA,1051361,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,CZK,Czech Koruna,6,Millions,NA,NA,1177586,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,CZK,Czech Koruna,6,Millions,NA,NA,1214045,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,CZK,Czech Koruna,6,Millions,NA,NA,1142954,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,CZK,Czech Koruna,6,Millions,NA,NA,1143823,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,CZK,Czech Koruna,6,Millions,NA,NA,1157476,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,CZK,Czech Koruna,6,Millions,NA,NA,1148883,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,CZK,Czech Koruna,6,Millions,NA,NA,1165533,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,CZK,Czech Koruna,6,Millions,NA,NA,1323770,NA,NA
+CZE,Czech Republic,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,CZK,Czech Koruna,6,Millions,NA,NA,1404154,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1995,1995,EUR,Euro,6,Millions,NA,NA,767.702,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1996,1996,EUR,Euro,6,Millions,NA,NA,717.352,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1997,1997,EUR,Euro,6,Millions,NA,NA,1376.88,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1998,1998,EUR,Euro,6,Millions,NA,NA,1645.908,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,1826.095,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,2133.158,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,2490.962,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,2972.518,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,3254.895,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,3750.469,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,4371.869,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,5046.235,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,6263.174,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,6252.43,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,5205.777,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,5481.786,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,6771.352,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,7171.555,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,7285.064,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,7328.95,NA,NA
+LVA,Latvia,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,7235.162,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,1938217.1228,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,2081867.7277,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,2182359.4467,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,2275650.4831,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,2331295.9461,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,2496826.2659,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,2641821.4783,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,2824568.0553,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,3042482.8336,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,2997172.9506,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,2748835.0646,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,2917989.7372,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,3000991.0513,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,2987576.4864,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,3022400.5445,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,3165668.4617,NA,NA
+EU28,European Union (28 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,3346899.69,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,1999,1999,EUR,Euro,6,Millions,NA,NA,1455350.5523,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,EUR,Euro,6,Millions,NA,NA,1536547.6961,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,EUR,Euro,6,Millions,NA,NA,1661656.874,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,EUR,Euro,6,Millions,NA,NA,1708600.0981,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,EUR,Euro,6,Millions,NA,NA,1755110.7603,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,EUR,Euro,6,Millions,NA,NA,1872317.709,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,EUR,Euro,6,Millions,NA,NA,1949076.0977,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,EUR,Euro,6,Millions,NA,NA,2078657.1778,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,EUR,Euro,6,Millions,NA,NA,2253234.6817,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,EUR,Euro,6,Millions,NA,NA,2243765.3081,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,EUR,Euro,6,Millions,NA,NA,2083157.9071,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,EUR,Euro,6,Millions,NA,NA,2190384.672,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,EUR,Euro,6,Millions,NA,NA,2240208.4231,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,EUR,Euro,6,Millions,NA,NA,2191358.5996,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,EUR,Euro,6,Millions,NA,NA,2231144.3812,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,EUR,Euro,6,Millions,NA,NA,2316284.8352,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2015,2015,EUR,Euro,6,Millions,NA,NA,2443008.7279,NA,NA
+EA19,Euro area (19 countries),SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2016,2016,EUR,Euro,6,Millions,NA,NA,2502715.3644,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2000,2000,ISK,Iceland Krona,6,Millions,NA,NA,147500.5266,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2001,2001,ISK,Iceland Krona,6,Millions,NA,NA,196320.7691,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2002,2002,ISK,Iceland Krona,6,Millions,NA,NA,199156.6533,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2003,2003,ISK,Iceland Krona,6,Millions,NA,NA,179949.1074,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2004,2004,ISK,Iceland Krona,6,Millions,NA,NA,197388.3898,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2005,2005,ISK,Iceland Krona,6,Millions,NA,NA,187489.4161,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2006,2006,ISK,Iceland Krona,6,Millions,NA,NA,202578.0454,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2007,2007,ISK,Iceland Krona,6,Millions,NA,NA,222645.5791,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2008,2008,ISK,Iceland Krona,6,Millions,NA,NA,429807.1738,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2009,2009,ISK,Iceland Krona,6,Millions,NA,NA,518231.504,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2010,2010,ISK,Iceland Krona,6,Millions,NA,NA,523961.6138,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2011,2011,ISK,Iceland Krona,6,Millions,NA,NA,499907.0863,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2012,2012,ISK,Iceland Krona,6,Millions,NA,NA,481398.7875,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2013,2013,ISK,Iceland Krona,6,Millions,NA,NA,499480.5361,NA,NA
+ISL,Iceland,SB2G_B3G,Gross operating surplus and mixed income,SS11_S12,Corporations,C,Current prices,2014,2014,ISK,Iceland Krona,6,Millions,NA,NA,491227.1427,NA,NA
